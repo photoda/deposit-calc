@@ -1,4 +1,4 @@
-#include "../thirdparty/ctest.h"
+#include <ctest.h>
 
 
 CTEST(percent, percent_days)
