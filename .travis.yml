@@ -1,10 +1,8 @@
 language: c
 
 compiler: gcc
-  
-script:
-- make
-- bin/deposit_calc_test
+install: make  
+script: bin/deposit_calc_test
 	
 	  
   
